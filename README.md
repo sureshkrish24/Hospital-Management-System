@@ -19,5 +19,12 @@
 - Maintain staff details via the Staff Management module.
 - Generate reports from the Reports section for administrative use.
 
+# Screenshots
+- Login Page
+![Login Page Screenshot](images/Loginpage.png)
+- Home Page
+![Home Page Screenshot ](images/Dashboard.png)
+- Patient Management Page
+![Patient Management Page Screenshot](images/PatientManagement.png)
 
 
